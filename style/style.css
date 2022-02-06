@@ -41,7 +41,7 @@ header nav a:hover{
 
 .filme-principal {
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url(/imgs/AAAABao5UZajlkQ-SwXq_YqAP3ccWQhsrvmEG7TmbXOa9VL_RBpcX0SsnKs9no17JMAA3Jro2BzLAOdq5Zdbs75_5TvkJ2oo.jpg);
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url(/Netflix-Clone-Desafio_DIO/imgs/AAAABao5UZajlkQ-SwXq_YqAP3ccWQhsrvmEG7TmbXOa9VL_RBpcX0SsnKs9no17JMAA3Jro2BzLAOdq5Zdbs75_5TvkJ2oo.jpg);
     
     height: 500px;
     background-size: cover;
